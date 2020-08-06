@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class ZombieAttack {
 
-
+// coomit changes from github
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int[] inhabitants = new int[8];
